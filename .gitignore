@@ -1,0 +1,28 @@
+# Database configuration with credentials
+db_config.php
+
+# Uploaded files
+files/*
+!files/.gitkeep
+
+# Zip archives
+*.zip
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
