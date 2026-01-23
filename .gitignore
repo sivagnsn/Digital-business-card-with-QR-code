@@ -1,6 +1,10 @@
 # Database configuration with credentials
 db_config.php
 
+# Apple Wallet certificates and pass folder
+pass/
+*.p12
+
 # Uploaded files
 files/*
 !files/.gitkeep

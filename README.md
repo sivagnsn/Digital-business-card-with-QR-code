@@ -42,8 +42,6 @@ A web-based digital business card system that allows users to create and share p
 - `api/` - RESTful API endpoints
 - `dashboard/` - Admin dashboard interface
 - `files/` - Uploaded files and generated vCards
-- `pass/` - Password-related functionality
-- `create.php` - Card creation interface
 - `vcard.php` - vCard generation script
 - `schema.sql` - Database schema
 - `db_config.php` - Database configuration (not tracked in git)
